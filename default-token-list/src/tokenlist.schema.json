@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "https://uniswap.org/tokenlist.schema.json",
+  "$id": "https://raw.githubusercontent.com/BearNetwork-BRNKC/npm-brnkc/main/default-token-list/src/tokenlist.schema.json",
   "title": "BrnkcSwap Token List",
   "description": "Schema for lists of tokens compatible with the BrnkcSwap DEX",
   "definitions": {
